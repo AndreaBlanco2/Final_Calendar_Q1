@@ -84,7 +84,7 @@ function writeMonthTable(monthNum) {
 
    return htmlCode;
    
-   console.log(htmlCode);
+//  console.log(htmlCode);
 }
 
 
